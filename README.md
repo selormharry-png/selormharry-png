@@ -3,9 +3,9 @@
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:F8B195,25:F67280,50:C06C84,75:6C5B7B,100:355C7D&height=180&section=header&text=Harry%20Junior%20Nunyuie&fontSize=36&fontColor=ffffff&animation=fadeIn)
 <div align="center">
 
-# Hey, I'm Harry Junior Nunyuie 👋
+# Harry Junior Nunyuie, Here! 👋
 
-**Junior Cloud & DevSecOps Engineer · AWS · Terraform · Kubernetes · Linux · AIOPS**
+**Junior Cloud & DevSecOps Engineer · AWS · Terraform · Kubernetes · Linux · AIOPS. DOCKER**
 
 I build scalable infrastructure, automate CI/CD pipelines, and orchestrate workloads on Kubernetes.
 Currently exploring the intersection of **AI + DevOps** — using LLMs to speed up provisioning,
