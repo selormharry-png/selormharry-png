@@ -1,7 +1,7 @@
 
 # selormharry-png / README.md
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:2C7A7B,100:81C7C4&height=180&section=header&text=Harry%20Junior%20Nunyuie&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![banner](https://capsule-render.vercel.app/api?type=venom&color=0:0B3D2E,100:1E5631&height=180&section=header&text=selormharry-png&fontSize=35&fontColor=ffffff)
 
 <div align="center">
 
