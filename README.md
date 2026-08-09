@@ -1,6 +1,6 @@
 
 # selormharry-png / README.md
-![banner](https://capsule-render.vercel.app/api?type=speech&color=0:F09819,100:FF512F&height=180&section=header&text=Harry%20Junior%20Nunyuie&fontSize=35&fontColor=ffffff)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:16222A,100:3A6073&height=180&section=header&text=Harry%20Junior%20Nunyuie&fontSize=40&fontColor=ffffff&animation=twinkling)
 <div align="center">
 
 # Hey, I'm Harry Junior Nunyuie 👋
