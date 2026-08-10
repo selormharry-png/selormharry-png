@@ -5,7 +5,7 @@
 
 # Harry Junior Nunyuie, Here! 👋
 
-**Junior Cloud & DevSecOps Engineer · AWS · Terraform · Kubernetes · Linux · AIOPS. DOCKER**
+**Cloud & DevSecOps Engineer · AWS · Terraform · Kubernetes · Linux · AIOPS. DOCKER**
 
 I build scalable infrastructure, automate CI/CD pipelines, and orchestrate workloads on Kubernetes.
 Currently exploring the intersection of **AI + DevOps** — using LLMs to speed up provisioning,
@@ -29,16 +29,12 @@ troubleshooting, and everyday infrastructure work.
 name:    Harry Junior Nunyuie
 handle:  selormharry-png
 role:    Junior Cloud & DevSecOps Engineer
-stack:   AWS · Terraform · Kubernetes · Linux · Python
+stack:   AWS · Terraform · Kubernetes · Linux · Docker
 focus:   Scalable infrastructure, CI/CD automation, AI-assisted DevOps
 ```
 
 I'm on a hands-on journey into cloud and security-first infrastructure engineering — starting
-from Linux fundamentals and networking, and building up through Terraform, AWS, and Kubernetes.
-Along the way I've built reusable Terraform scaffolding tools, debugged real AWS networking
-issues (ALB routing, target group health, IMDSv2), and I'm now exploring how AI can make
-infrastructure work faster and smarter without losing control of the fundamentals.
-
+from Linux fundamentals and networking, and building up through Terraform, AWS, Docker and Kubernetes.
 ---
 
 ## 🛠️ Tech Stack
@@ -75,24 +71,17 @@ infrastructure work faster and smarter without losing control of the fundamental
 
 | Project | Description |
 |---|---|
-| **terraform-aws-scaffold** | A reusable Terraform/AWS scaffolding skill — modular VPC/subnet/SG/EC2 layout, S3 backend with native state locking, Python-based scaffold generator. |
+| **terraform-aws-scaffold** | A reusable Terraform/AWS scaffolding skill — modular VPC/subnet/SG/EC2 layout, S3 backend with native state locking, |
 | **imdsv2-metadata-page** | Systemd + EC2 User Data setup that serves live instance metadata (IP, instance ID, AZ) via Nginx for ALB routing diagnostics. |
-| **log-parser-toolkit** | Python log parser with severity filtering and a visual summary report — first step into DevSecOps tooling. |
-| **harrys-roadmap** | A personalized DevOps learning roadmap infographic covering Linux → Networking → Git → Cloud → IaC → CI/CD → Containers → Certifications. |
+| **harrys-roadmap** | A personalized DevOps learning roadmap infographic covering Linux → Networking → Git → Cloud → IaC → CI/CD → Containers |
 
 ---
 
-## ⚙️ Currently Building
-
-- 🔧 Expanding the Terraform scaffold into multi-environment (dev/stage/prod) workspaces
-- ☸️ Deepening Kubernetes orchestration and deployment automation
-- 🤖 Prototyping AI-assisted troubleshooting and infra-as-code generation workflows
-- 🔐 Baking security checks earlier into CI/CD pipelines (shift-left DevSecOps)
 
 ---
 
 <div align="center">
 
-*"Learning by building — every project deepens real operational understanding."*
+*"Learning by building & doing — every project deepens real operational understanding."*
 
 </div>
