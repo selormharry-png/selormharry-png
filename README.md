@@ -71,9 +71,9 @@ from Linux fundamentals and networking, and building up through Terraform, AWS, 
 
 | Project | Description |
 |---|---|
-| **terraform-aws-scaffold** | A reusable Terraform/AWS scaffolding skill — modular VPC/subnet/SG/EC2 layout, S3 backend with native state locking, |
-| **imdsv2-metadata-page** | Systemd + EC2 User Data setup that serves live instance metadata (IP, instance ID, AZ) via Nginx for ALB routing diagnostics. |
-| **harrys-roadmap** | A personalized DevOps learning roadmap infographic covering Linux → Networking → Git → Cloud → IaC → CI/CD → Containers |
+| **configuration-of-module** | Provision of EC2, VPC, ALB, ASG, S3 backend with native state locking, Reuse across environments. | 
+| **use-file-layout-workspaces-in-env** | 
+| **harrys-roadmap** | A personalized DevOps learning roadmap infographic covering Linux → Networking → Git → Cloud → IaC |
 
 ---
 
